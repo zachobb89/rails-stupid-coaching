@@ -1,0 +1,27 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+// .container {
+//   display-width: 100vw;
+// }
+
+.card-white {
+    background-color: white;
+    padding: 30px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+    border-radius: 20px;
+    margin: 10px auto;
+    text-align: center;
+    width: 800px;
+    font-family: arial;
+}
+
+.btn {
+    cursor: pointer;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.input-box {
+  width: 300px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
